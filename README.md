@@ -101,3 +101,5 @@ If ClickHouse is not available, the app falls back to generated sample data so t
 
 
 ------------------------------------------------------------------------
+
+<img width="700" height="580" alt="image" src="https://github.com/user-attachments/assets/918842cf-fc9a-42b7-8c3b-d9a1f67f1f34" />
