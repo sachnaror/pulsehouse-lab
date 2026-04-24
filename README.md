@@ -1,4 +1,4 @@
-# PulseHouse Lab
+# PulseHouse Lab [using ClickHouse Database]
 
 PulseHouse Lab is an experimental small FastAPI + Bootstrap demo that explains why ClickHouse is strong for observability and analytics workloads.
 
